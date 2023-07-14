@@ -1,0 +1,15 @@
+- name: Konum 1
+  position:
+    x: -5.24
+    y: 3.54
+    z: 0
+- name: Konum 2
+  position:
+    x: 3
+    y: 4
+    z: 0
+- name: Konum 3
+  position:
+    x: 5
+    y: 6
+    z: 0
